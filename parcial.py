@@ -1,9 +1,5 @@
 # Parcial-Estructura-de-datos
 
-
-El codigo tarda un poco en empezar a escribir los datos. No esta dañado
-
-
 import requests, re, json
 from collections import Counter
 
